@@ -1,0 +1,15 @@
+body {
+    background-color: bisque;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+     
+    
+}
+
+title{text-size-adjust: 25px; -webkit-text-fill-color: greenyellow;}
+h1{font-size: 40px; -webkit-text-fill-color: blueviolet; font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center;}
+
+p{-webkit-text-fill-color: hotpink; font-size: 25px;}
+
+    h2{text-decoration: underline;  text-decoration-color: darkorange;-webkit-text-fill-color: darkorange;}
+
+    ol{font-size: 25px; -webkit-text-fill-color: red;}
